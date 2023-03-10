@@ -4,4 +4,4 @@ let informationCard = {
     hobby: 'drawing picture'
 }
 //console.log(`Hi, my name is ${informationCard.userName}. I live in ${place} and enjoy ${hobby}`};
-console.log(`Hi, my name is ${informationCard.userName}. I live in ${informationCard.place}`);
+console.log(`Hi, my name is ${informationCard.userName}. I live in ${informationCard.place} and enjoy ${informationCard.hobby}.`);
