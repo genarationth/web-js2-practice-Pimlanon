@@ -1,5 +1,5 @@
-const myBirthday = 2000;
+const myBirthdayYear = 2000;
 let futureYear = 2026;
 
-let myAge = futureYear-=myBirthday;
+let myAge = futureYear-myBirthdayYear;
 console.log(myAge);
