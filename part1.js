@@ -57,3 +57,7 @@ console.log(Boolean(j)); //true
 console.log(Number(k)); //0
 console.log(String(k));
 console.log(Boolean(k)); //false
+
+console.log(Number(l)); //20
+console.log(String(l)); //20
+console.log(Boolean(l)); //true
