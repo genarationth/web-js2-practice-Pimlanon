@@ -29,3 +29,14 @@ console.log(Boolean(c)); //false
 console.log(Number(d)); //1
 console.log(String(d)); //1
 console.log(Boolean(d)); //true
+
+console.log(Number(e)); //0
+console.log(String(e)); //0
+console.log(Boolean(e)); //true
+
+console.log(Number(f)); //0
+console.log(String(f)); //000
+console.log(Boolean(f)); //true
+
+
+
