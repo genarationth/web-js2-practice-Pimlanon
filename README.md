@@ -19,7 +19,7 @@ Work in pairs to complete the following table:
 | 1                     |    1     |    1     |   true    |
 | “0”                   |    0     |    0     |   true    |
 | “000”                 |    0     |   000    |   true    |
-| “1”                   |    1     |   "1"    |   true    |
+| “1”                   |    1     |      1   |   true    |
 | NaN                   |   NaN    |  "NaN"   |   false   |
 | Infinity              | infinity |"infinity"|  infinity
 | -Infinity             |-infinity |"-infinity"| -infinity |

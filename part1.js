@@ -38,5 +38,7 @@ console.log(Number(f)); //0
 console.log(String(f)); //000
 console.log(Boolean(f)); //true
 
-
+console.log(Number(g)); //1
+console.log(String(g)); //1
+console.log(Boolean(g)); //true
 
