@@ -69,3 +69,7 @@ console.log(Boolean(m)); //true
 console.log(Number(n)); //0
 console.log(String(n)); //null
 console.log(Boolean(n)); //false
+
+console.log(Number(o)); //NaN
+console.log(String(o)); //undefined
+console.log(Boolean(o)); //false
