@@ -61,3 +61,7 @@ console.log(Boolean(k)); //false
 console.log(Number(l)); //20
 console.log(String(l)); //20
 console.log(Boolean(l)); //true
+
+console.log(Number(m)); //NaN
+console.log(String(m)); //Twenty
+console.log(Boolean(m)); //true
