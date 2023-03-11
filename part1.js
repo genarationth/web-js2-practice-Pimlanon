@@ -25,3 +25,7 @@ console.log(Boolean(b)); //true
 console.log(Number(c)); //0
 console.log(String(c)); //0
 console.log(Boolean(c)); //false
+
+console.log(Number(d)); //1
+console.log(String(d)); //1
+console.log(Boolean(d)); //true
