@@ -53,3 +53,7 @@ console.log(Boolean(i)); //true
 console.log(Number(j)); //-Infinity
 console.log(String(j)); //-Infinity
 console.log(Boolean(j)); //true
+
+console.log(Number(k)); //0
+console.log(String(k));
+console.log(Boolean(k)); //false
