@@ -50,3 +50,6 @@ console.log(Number(i)); //Infinity
 console.log(String(i)); //Infinity
 console.log(Boolean(i)); //true
 
+console.log(Number(j)); //-Infinity
+console.log(String(j)); //-Infinity
+console.log(Boolean(j)); //true

@@ -22,7 +22,7 @@ Work in pairs to complete the following table:
 | “1”                   |    1     |    1     |   true    |
 | NaN                   |   NaN    |   NaN    |   false   |
 | Infinity              | Infinity | Infinity |   true
-| -Infinity             |-infinity |"-infinity"| -infinity |
+| -Infinity             |-infinity | -infinity|   true    |
 | “”                    |    0     |          |   false   |
 | “20”                  |    20    |    "20"  |   true    |
 | “Twenty”              |   NaN    | "Twenty" |   true    |
