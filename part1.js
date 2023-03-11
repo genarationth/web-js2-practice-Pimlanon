@@ -65,3 +65,7 @@ console.log(Boolean(l)); //true
 console.log(Number(m)); //NaN
 console.log(String(m)); //Twenty
 console.log(Boolean(m)); //true
+
+console.log(Number(n)); //0
+console.log(String(n)); //null
+console.log(Boolean(n)); //false
