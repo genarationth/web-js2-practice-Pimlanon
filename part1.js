@@ -42,3 +42,7 @@ console.log(Number(g)); //1
 console.log(String(g)); //1
 console.log(Boolean(g)); //true
 
+console.log(Number(h)); //NaN
+console.log(String(h)); //NaN
+console.log(Boolean(h)); //false
+
