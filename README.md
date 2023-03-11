@@ -21,7 +21,7 @@ Work in pairs to complete the following table:
 | “000”                 |    0     |   000    |   true    |
 | “1”                   |    1     |    1     |   true    |
 | NaN                   |   NaN    |   NaN    |   false   |
-| Infinity              | infinity |"infinity"|  infinity
+| Infinity              | Infinity | Infinity |   true
 | -Infinity             |-infinity |"-infinity"| -infinity |
 | “”                    |    0     |          |   false   |
 | “20”                  |    20    |    "20"  |   true    |

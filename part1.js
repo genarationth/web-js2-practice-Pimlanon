@@ -46,3 +46,7 @@ console.log(Number(h)); //NaN
 console.log(String(h)); //NaN
 console.log(Boolean(h)); //false
 
+console.log(Number(i)); //Infinity
+console.log(String(i)); //Infinity
+console.log(Boolean(i)); //true
+
